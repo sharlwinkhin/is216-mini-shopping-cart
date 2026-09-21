@@ -1,3 +1,4 @@
+# env files may have secret
 config.env
 .env
 .local.env
